@@ -1,0 +1,49 @@
+
+.navbar{
+    background: #000;
+}
+
+.nav-item{
+    padding-left: 1em;
+    text-transform: uppercase;
+}
+#Contact-Header {
+    background-image: url('../img/bg (17).jpg');
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    min-height: 250px;
+    position: relative;
+    margin-top: 55px;
+}
+#Contact-Header .dark-overly{
+    background: rgba(0,0,0,0.7);
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+}
+#Contact-Header h2{
+    color: #ffffff;
+}
+#Vlog-Header {
+    background-image: url('../img/web bg (5).jpg');
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    min-height: 250px;
+    position: relative;
+    margin-top: 55px;
+}
+#Vlog-Header .dark-overly{
+    background: rgba(0,0,0,0.7);
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+}
+#Vlog-Header h2{
+    color: #ffffff;
+}
